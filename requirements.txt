@@ -1,4 +1,4 @@
-pandas==1.5.3
+pandas
 selenium==4.9.0
 webdriver-manager
 beautifulsoup4==4.11.1
