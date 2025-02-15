@@ -1,4 +1,4 @@
 pandas
 selenium==4.9.0
-webdriver-manager
+webdriver-manager==4.0.2
 beautifulsoup4==4.11.1
